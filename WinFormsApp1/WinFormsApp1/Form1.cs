@@ -16,6 +16,7 @@ namespace WinFormsApp1
         {
             InitializeComponent();
             //ilk deneme commit ve pull request
+            // fatih bişey olmaz dedi
         }
 
     }
